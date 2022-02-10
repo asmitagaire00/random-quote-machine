@@ -1,0 +1,11 @@
+.quote-generate {
+  padding: 40px;
+  max-width: 500px;
+  background-color: rgb(238, 229, 229);
+}
+
+.button-wrapper {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}

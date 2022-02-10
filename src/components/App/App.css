@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+button {
+  padding: 10px;
+  cursor: pointer;
+  font-weight: 550;
+  outline: none;
+  border: none;
+  border-radius: 3px;
+  box-shadow: 4px 4px gainsboro;
+}
+
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  border: 1px solid rgb(218, 233, 235);
+  height: 100vh;
+}

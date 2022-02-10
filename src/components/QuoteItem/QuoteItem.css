@@ -1,0 +1,23 @@
+.quote-box {
+  font-size: 1.5rem;
+}
+
+.quote-box__text {
+  font-weight: 600;
+  margin-bottom: 40px;
+  padding-left: 0px;
+}
+
+.tweet-quote {
+  text-decoration: none;
+}
+
+.blockquote > p::before {
+  content: '\201C';
+  font-size: 60px;
+}
+
+.quote-box__author {
+  font-size: 1rem;
+  text-align: end;
+}
